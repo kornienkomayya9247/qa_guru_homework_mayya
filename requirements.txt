@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+pytest
+flake8
+black
+isort
